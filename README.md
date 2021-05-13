@@ -8,6 +8,7 @@
 
 
 **Application:  iOS client for TMDb [www.themoviedb.org](https://www.themoviedb.org) , the free and community maintained movie database.**
+![TMDB](https://user-images.githubusercontent.com/37674802/118129850-fc3e3d80-b3fc-11eb-8a28-d146f8b8fe57.png)
 
 - Main features: 
     - Discover Popular, Top Rated, Upcoming movies and tv-shows.
@@ -22,8 +23,6 @@
 
 
 - **Frameworks**: UIKit, Foundation
-
-//////
 
 ## Prerequisites
 
