@@ -19,7 +19,7 @@
     - Fully supports the TMDb 3.0 API.
 
 - Builded with Swift and Xcode, Apple’s programming environment for app development. Used AutoLayout, UIButtons, and UILabels, UIImageView, UITableView, UITabBar to create an interface, and how to react to touch events in an app using ViewController and multiple views. Also used Web Services and APIs,  parsed JSON data and displayed it to a user. Chaining Asynchronous Requests, used closures to chain multiple web requests together. Authenticating Requests. Securely access data using HTTPS and tokens.
-    Used architecture is MVM.
+    Used architecture is MVC.
 
 
 - **Frameworks**: UIKit, Foundation
