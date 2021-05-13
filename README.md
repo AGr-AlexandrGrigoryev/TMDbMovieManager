@@ -7,7 +7,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/AlexCZ-RUS/TMDbMovieManager?style=social)
 
 
-**Application:  iOS client for TMDb ![Group 20](https://www.themoviedb.org) , the free and community maintained movie database.**
+**Application:  iOS client for TMDb [GitHub Pages](https://www.themoviedb.org) , the free and community maintained movie database.**
 
 - Main features: 
     - Discover Popular, Top Rated, Upcoming movies and tv-shows.
@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 * In folder `Midel` -> `TMDB Client` file `TMDBClient.swift`  add your API Key to  
 > static let apiKey = "***********************" 
 * For this visit 
-* ![Group 20](https://www.developers.themoviedb.org)
+* [GitHub Pages](https://www.developers.themoviedb.org)
 * or contact me directly at <grigoriev.alexandr.nsk@gmail.com>.
 
 
