@@ -33,9 +33,9 @@ Before you begin, ensure you have met the following requirements:
 * You have a `Mac` machine. 
 * iPhone Requires iOS `10.0` or later   
 * In folder `Midel` -> `TMDB Client` file `TMDBClient.swift`  add your API Key to  
-> static let apiKey = "***********************" 
-* For this visit [Primary documentation](https://www.developers.themoviedb.org)
-* or contact me directly at <grigoriev.alexandr.nsk@gmail.com>.
+ > static let apiKey = "***********************" 
+* For get this visit [Primary documentation](https://www.developers.themoviedb.org)
+* Or contact me directly at <grigoriev.alexandr.nsk@gmail.com>.
 
 
 ## Installing <TheMovieManager>
